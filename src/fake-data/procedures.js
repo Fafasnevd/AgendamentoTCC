@@ -20,7 +20,7 @@ export default [
   },
   {
     id: 2,
-    name: 'Micropigmentação Shadowline',
+    name: 'Cabelo + Barba',
     time: 60,
     price: {
       0: 100,
